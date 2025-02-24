@@ -1,0 +1,9 @@
+{
+  "project_name": "BusON Landing Page",
+  "type": "landing-page",
+  
+  "template_url": "./public/cover.png",
+  "logo_url": "./src/assets/images/logo.png",
+
+  "web": "./"
+}
